@@ -4,13 +4,21 @@
  <title>wildchild</title>
  <link href="http://wildchilderic.github.com/atom.xml" rel="self"/>
  <link href="http://wildchilderic.github.com"/>
- <updated>2012-04-22T00:41:31+08:00</updated>
+ <updated>2012-04-22T00:54:01+08:00</updated>
  <id>http://wildchilderic.github.com</id>
  <author>
    <name>Eric Li</name>
    <email>lizhe19851001@126.com</email>
  </author>
 
+ 
+ <entry>
+   <title>测试Post</title>
+   <link href="http://wildchilderic.github.com/2012/04/22/post"/>
+   <updated>2012-04-22T00:00:00+08:00</updated>
+   <id>http://wildchilderic.github.com/2012/04/22/post</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>Jekyll Introduction</title>

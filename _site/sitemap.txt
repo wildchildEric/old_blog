@@ -7,4 +7,5 @@ http://wildchilderic.github.com/pages.html
 http://wildchilderic.github.com/sitemap.txt
 http://wildchilderic.github.com/tags.html
 
+http://wildchilderic.github.com/2012/04/22/post
 http://wildchilderic.github.com/lessons/2011/12/29/jekyll-introduction

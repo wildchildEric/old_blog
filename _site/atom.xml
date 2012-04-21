@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>WildChild Blog</title>
+ <title>wildchild</title>
  <link href="http://username.github.com/atom.xml" rel="self"/>
  <link href="http://username.github.com"/>
- <updated>2012-04-22T00:27:06+08:00</updated>
+ <updated>2012-04-22T00:30:03+08:00</updated>
  <id>http://username.github.com</id>
  <author>
    <name>Eric Li</name>

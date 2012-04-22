@@ -8,6 +8,10 @@ tagline: 十年磨一贱~
 <script type="text/javascript">
 	window.onload = function(){ 
 		var canvas = document.getElementById("myCanvas");
+		if (!canvas.getContext) {
+			//Do something to sure the context
+			return;
+		};
         var context = canvas.getContext("2d");
         var destX = 0;
         var destY = 0;

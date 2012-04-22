@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Wildchild's Blog
+tagline: 技术，生活
 ---
 {% include JB/setup %}
 

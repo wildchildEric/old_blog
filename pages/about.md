@@ -16,11 +16,14 @@ group: navigation
 
 我会在这里分享一些我觉得有用的，有意思的东西。
 
+本站使用[Github Pages](http://pages.github.com/)和[Jekyll](https://github.com/mojombo/jekyll)，还有页面footer里的那俩搭建，Thanks to them ~
+
+
 `To contact me:`
 
-- [Douban] (http://www.douban.com/people/wildchild_eric/)
-- [新浪微博] (http://weibo.com/wildchild1001)
+- [Douban](http://www.douban.com/people/wildchild_eric/)
+- [新浪微博](http://weibo.com/wildchild1001)
 
-- [Twitter] (https://twitter.com/#!/wildchildEric)
+- [Twitter](https://twitter.com/#!/wildchildEric)
 
-- [Github] (https://github.com/wildchildEric)
+- [Github](https://github.com/wildchildEric)

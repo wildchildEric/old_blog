@@ -31,7 +31,7 @@ tagline: 十年磨一贱~
             context.font         = 'Italic 9px Sans-Serif';
 			context.fillText("From flickr.com/wbsloan", 830, 340);            
         };
-        imageObj.src = "/img/index_bg.png";
+        imageObj.src = "/img/index_bg.jpg";
 	}
 </script>
 

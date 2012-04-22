@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wildchild's Blog
-tagline: 技术，生活
+tagline: 十年磨一贱~
 ---
 {% include JB/setup %}
 

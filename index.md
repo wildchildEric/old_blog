@@ -11,10 +11,14 @@ tagline: 十年磨一贱~
         var context = canvas.getContext("2d");
         var destX = 0;
         var destY = 0;
-        var imageObj = new Image();				
+        var imageObj = new Image();	
+
+		context.font  = 'Bold 30px Sans-Serif';
+    	context.strokeText('Loading ...', 400, 150);
+        
         imageObj.onload = function(){
-            context.drawImage(imageObj, destX, destY);
-            // context.fillStyle    = '#00F';
+        	context.clearRect ( 400 , 150 , 200 , 40 );
+            context.drawImage(imageObj, destX, destY);            
     		context.font         = 'Italic 15px Sans-Serif';
     		var x = 20;
     		var y = 30;

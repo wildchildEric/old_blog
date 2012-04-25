@@ -99,4 +99,5 @@ F2	 	|下一个书签
 ⌘KA	 |从光标位置选择至标记
 ⌘KG	 |清除标记
 
+</br>
 参考自 [Lucifr](http://lucifr.com/139235/sublime-text-2-useful-shortcuts/)

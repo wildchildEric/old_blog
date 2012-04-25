@@ -3,7 +3,7 @@ layout: post
 title: "Sublime Text 2 常用快捷键(Mac)"
 description: ""
 category: [工欲善其事，必先利其器]
-tags: [SublimeText2]
+tags: [SublimeText2,快捷键]
 ---
 {% include JB/setup %}
 
@@ -30,7 +30,7 @@ tags: [SublimeText2]
 
 </br>
             
-编辑&nbsp;&nbsp;&nbsp; 		    | &nbsp;
+编辑 		    | &nbsp;
 :-----------	| :-------------
 ⌘L 	 |选择行 (重复按下将下一行加入选择)
 ⌘D	 |选择词 (重复按下时多重选择相同的词进行多重编辑)
@@ -83,7 +83,7 @@ XML/HTML 		| &nbsp;
 
 </br>
   
-书签&nbsp;&nbsp; 		    | &nbsp;
+书签 		    | &nbsp;
 :-----------	| :-------------
 ⌘F2	 	|添加/去除书签
 F2	 	|下一个书签
@@ -92,7 +92,7 @@ F2	 	|下一个书签
 
 </br>
   
-标记&nbsp;&nbsp; 		    | &nbsp;
+标记 		    | &nbsp;
 :-----------	| :-------------
 ⌘K space	 |设置标记
 ⌘KW	 |从光标位置删除至标记

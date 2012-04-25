@@ -25,7 +25,7 @@ tags: [SublimeText2]
 ⌘⇧P	 |命令提示
 ⌃G	 |前往行
 ⌘KB	 |开关侧栏
-⌃ `	 |python 控制台
+⌃ ` 	 |python 控制台
 ⌘⇧N	 |新建窗口
 
 

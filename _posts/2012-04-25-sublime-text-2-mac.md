@@ -3,7 +3,7 @@ layout: post
 title: "Sublime Text 2 常用快捷键(Mac)"
 description: ""
 category: [工欲善其事，必先利其器]
-tags: [SublimeText]
+tags: [SublimeText2]
 ---
 {% include JB/setup %}
 

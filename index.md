@@ -30,7 +30,7 @@ tagline: 十年磨一贱~
             y += 20;
             context.fillText("感兴趣的技术挺多（Cocoa，Python，Ruby，Rails，MacRuby），精通的少。", x, y);
             y += 20;
-            context.fillText("感兴趣的运动挺多，都能玩玩，某人说我爱“动手动脚”... 足球应该是最爱。", x, y);
+            context.fillText("感兴趣的运动挺多，都能玩玩，足球应该是最爱。", x, y);
             y += 20;
             context.fillText("我会在这里分享一些我觉得有用的，有意思的东西。", x, y);
             context.fillStyle = "#FFFFFF";
